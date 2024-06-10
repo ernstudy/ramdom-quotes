@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(0, 166, 255);
+}
+.quotes {
+  border: 10px solid rgb(223, 191, 111);
+  text-align: center;
+  width: 600px;
+  min-height: 500px;
+  background-color: #fff;
+}
+
+.btn {
+  font-size: 30px;
+  color: #000000;
+  padding: 10px 30px;
+}
